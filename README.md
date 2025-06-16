@@ -1,1 +1,1 @@
-## Cancer cell classification using Scikit-learn
+## Machine Learning Projects for practice
